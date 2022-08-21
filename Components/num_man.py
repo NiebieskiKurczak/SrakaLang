@@ -1,4 +1,4 @@
-import err_man as er
+import Components.err_man as er
 
 class Num_Man():
     def Manage(self, input, var_Table, addInfo=True):

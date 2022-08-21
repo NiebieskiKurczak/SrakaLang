@@ -4,7 +4,8 @@ import sys
 args = sys.argv
 try:
     if args[2] == '--AllowPythonCode':
-       interpreter.AllowPythonCode = True
+       #interpreter.AllowPythonCode = True
+       pass
 except:
     pass
 

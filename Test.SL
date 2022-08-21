@@ -1,2 +1,1 @@
-apc print('hej')
-var dupa = 13
+var wiek = 14 - 1
